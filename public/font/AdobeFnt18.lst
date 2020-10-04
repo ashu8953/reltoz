@@ -1,0 +1,787 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Bold.eot
+FileModTime:1600263892
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Bold
+FamilyName:Gotham
+StyleName:Bold
+FullName:Gotham Bold
+MenuName:Gotham Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:157328
+FileModTime:1600263888
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Bold
+NameArray:0,Win,1,Gotham Bold
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Bold.svg
+FileModTime:1600263893
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Bold
+FamilyName:Gotham
+StyleName:Bold
+FullName:Gotham-Bold
+MenuName:Gotham Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:69060
+FileModTime:1600263892
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Bold
+NameArray:0,Win,1,Gotham Bold
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Bold.woff
+FileModTime:1600263893
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-BoldItalic.eot
+FileModTime:1600259253
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-BoldItalic.svg
+FileModTime:1600259254
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-BoldItalic
+FamilyName:Gotham
+StyleName:Bold Italic
+FullName:Gotham-BoldItalic
+MenuName:Gotham
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:43928
+FileModTime:1600259252
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-BoldItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-BoldItalic.woff
+FileModTime:1600259254
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Book.eot
+FileModTime:1600262693
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+FullName:Gotham Book
+MenuName:Gotham Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:158964
+FileModTime:1600262689
+WeightClass:325
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Book
+NameArray:0,Win,1,Gotham Book
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Book.svg
+FileModTime:1600262694
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+FullName:Gotham-Book
+MenuName:Gotham Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Book.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:69668
+FileModTime:1600262692
+WeightClass:325
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Book
+NameArray:0,Win,1,Gotham Book
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Book.woff
+FileModTime:1600262694
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-BookItalic.eot
+FileModTime:1600259334
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-BookItalic.svg
+FileModTime:1600259335
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-BookItalic
+FamilyName:Gotham
+StyleName:Book Italic
+FullName:Gotham-BookItalic
+MenuName:Gotham
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-BookItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:44136
+FileModTime:1600259332
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-BookItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-BookItalic.woff
+FileModTime:1600259335
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Light.eot
+FileModTime:1600259426
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Light.svg
+FileModTime:1600259427
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Light
+FamilyName:Gotham
+StyleName:Light
+FullName:Gotham-Light
+MenuName:Gotham
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:56508
+FileModTime:1600259424
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Light
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Light.woff
+FileModTime:1600259427
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-LightItalic.eot
+FileModTime:1600259522
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-LightItalic.svg
+FileModTime:1600259523
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-LightItalic
+FamilyName:Gotham
+StyleName:Light Italic
+FullName:Gotham-LightItalic
+MenuName:Gotham
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:44364
+FileModTime:1600259521
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-LightItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-LightItalic.woff
+FileModTime:1600259523
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Medium.eot
+FileModTime:1600267334
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+FullName:Gotham Medium
+MenuName:Gotham Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:159852
+FileModTime:1600267331
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Medium
+NameArray:0,Win,1,Gotham Medium
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Medium.svg
+FileModTime:1600267335
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+FullName:Gotham-Medium
+MenuName:Gotham Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:69540
+FileModTime:1600267334
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Medium
+NameArray:0,Win,1,Gotham Medium
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\Gotham-Medium.woff
+FileModTime:1600267335
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\preview.html
+FileModTime:1600267335
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\styles.css
+FileModTime:1600267367
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham fonts.zip
+FileModTime:1600256107
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-BlackItalic
+FamilyName:Gotham
+StyleName:Black Italic
+FullName:Gotham Black Italic
+MenuName:Gotham Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-BlackIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:135616
+FileModTime:1187092730
+WeightClass:425
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham Black Italic
+NameArray:0,Win,1,Gotham Black
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Black
+FamilyName:Gotham Black
+StyleName:Regular
+FullName:Gotham-Black
+MenuName:Gotham Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-Black_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:30608
+FileModTime:1446701476
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Black
+NameArray:0,Win,1,Gotham Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Bold
+FamilyName:Gotham
+StyleName:Bold
+FullName:Gotham Bold
+MenuName:Gotham Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-Bold_1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:157328
+FileModTime:1421962970
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Bold
+NameArray:0,Win,1,Gotham Bold
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Book
+FamilyName:Gotham
+StyleName:Book
+FullName:Gotham Book
+MenuName:Gotham Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-Book_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:158964
+FileModTime:1421962970
+WeightClass:325
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Book
+NameArray:0,Win,1,Gotham Book
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Medium
+FamilyName:Gotham
+StyleName:Medium
+FullName:Gotham Medium
+MenuName:Gotham Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:159852
+FileModTime:1421982770
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Medium
+NameArray:0,Win,1,Gotham Medium
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-ThinItalic
+FamilyName:Gotham Thin
+StyleName:Italic
+FullName:Gotham-ThinItalic
+MenuName:Gotham Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-ThinItalic_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:32720
+FileModTime:1446701476
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-ThinItalic
+NameArray:0,Win,1,Gotham Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Thin
+FamilyName:Gotham Thin
+StyleName:Regular
+FullName:Gotham-Thin
+MenuName:Gotham Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-Thin_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:30412
+FileModTime:1446701476
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Thin
+NameArray:0,Win,1,Gotham Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-UltraItalic
+FamilyName:Gotham Ultra
+StyleName:Italic
+FullName:Gotham-UltraItalic
+MenuName:Gotham Ultra
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-UltraItalic_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:31504
+FileModTime:1446701476
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-UltraItalic
+NameArray:0,Win,1,Gotham Ultra
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Ultra
+FamilyName:Gotham
+StyleName:Ultra
+FullName:Gotham Ultra
+MenuName:Gotham Ultra
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-Ultra_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:133680
+FileModTime:1187092446
+WeightClass:450
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Ultra
+NameArray:0,Win,1,Gotham Ultra
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-ExtraLightItalic
+FamilyName:Gotham
+StyleName:Extra Light Italic
+FullName:Gotham Extra Light Italic
+MenuName:Gotham Extra Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-XLightIta_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:137592
+FileModTime:1187092768
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham Extra Light Italic
+NameArray:0,Win,1,Gotham Extra Light
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-ExtraLight
+FamilyName:Gotham
+StyleName:Extra Light
+FullName:Gotham Extra Light
+MenuName:Gotham Extra Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\Gotham-XLight_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:132120
+FileModTime:1187092452
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham Extra Light
+NameArray:0,Win,1,Gotham Extra Light
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-BoldItalic
+FamilyName:Gotham
+StyleName:Bold Italic
+FullName:Gotham-BoldItalic
+MenuName:Gotham
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\GothamBoldItalic_0.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:43928
+FileModTime:1444406494
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-BoldItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-BookItalic
+FamilyName:Gotham
+StyleName:Book Italic
+FullName:Gotham-BookItalic
+MenuName:Gotham
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\GothamBookItalic_0.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:44136
+FileModTime:1444406494
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-BookItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-LightItalic
+FamilyName:Gotham
+StyleName:Light Italic
+FullName:Gotham-LightItalic
+MenuName:Gotham
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\GothamLightItalic_0.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:44364
+FileModTime:1444406494
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Gotham-LightItalic
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gotham-Light
+FamilyName:Gotham
+StyleName:Light
+FullName:Gotham-Light
+MenuName:Gotham
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\GothamLight_0.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:56508
+FileModTime:1444406494
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gotham-Light
+NameArray:0,Win,1,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamNarrow-Bold
+FamilyName:Gotham Narrow
+StyleName:Bold
+FullName:Gotham Narrow Bold
+MenuName:Gotham Narrow Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Projects\Dhaval\relotz\Font\font -ttf\GothamNarrow-Bold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:176412
+FileModTime:1221134668
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Gotham Narrow Bold
+NameArray:0,Win,1,Gotham Narrow Bold
+NameArray:0,Win,16,Gotham Narrow
+%EndFont
+

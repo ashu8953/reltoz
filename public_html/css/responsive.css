@@ -1,0 +1,762 @@
+@media only screen and (max-width: 1368px) {
+    body {
+        background-size: 120px, 300px;
+    }
+    .container {
+        max-width: 1250px;
+    }
+    .header-top-navbar {
+        display: none;
+    }
+    .button a {
+        padding: 15px 30px;
+    }
+    .header-top {
+        margin-top: 50px;
+    }
+    .manu li {
+        font-size: 22px;
+        padding: 0 20px;
+        border-right: 1px solid #273138;
+    }
+    .heading h1 {
+        font-size: 32px;
+        font-family: Gotham-Bold;
+    }
+    .heading span {
+        font-size: 30px;
+        line-height: normal;
+    }
+    .heading .border {
+        margin-top: 20px;
+        width: 110px;
+    }
+    .banner-form {
+        padding-top: 40px;
+    }
+    .heading {
+        padding-top: 60px;
+    }
+    .banner-form p {
+        color: #04223a;
+        font-size: 18px;
+        margin-top: 0;
+        margin-bottom: 8px;
+    }
+    .download-form input {
+        border: 1px solid #828282;
+        margin-right: 10px;
+        padding: 0 0 0 8px;
+        flex-shrink: 1;
+        width: 100%;
+    }
+    .download-btn {
+        flex-shrink: 0;
+        padding: 8px;
+    }
+    .banner-image img {
+        width: 600px;
+        height: auto;
+    }
+    .lable p {
+        font-size: 40px;
+        margin-bottom: 28px;
+    }
+    .planing-data p {
+        font-size: 18px;
+        margin-top: 35px;
+        line-height: 20px;
+    }
+    .planing-data {
+        max-width: 300px;
+    }
+    .lable h1 {
+        font-size: 42px;
+        margin: 28px 0;
+    }
+    .lable .fix-header {
+        max-width: 740px;
+        margin: 28px auto;
+    }
+    .diagram-image {
+        height: 200px;
+        width: 200px;
+    }
+    .diagram-list ul li {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .diagram-list h3 {
+        font-size: 18px;
+        margin-bottom: 14px;
+    }
+    .container-2 {
+        width: 850px;
+    }
+    .lifting {
+        padding: 60px 30px 60px 30px;
+    }
+    .lifting-list ul li {
+        font-size: 16px;
+        padding: 8px 0;
+    }
+    .modify-lable h1 {
+        margin-top: 0;
+    }
+    .dropdown-data {
+        padding-top: 60px;
+    }
+    .lifting-image {
+        padding-left: 40px;
+        padding-top: 10px;
+    }
+    .lifting-details {
+        font-size: 16px;
+        line-height: 20px;
+        color: #273138;
+    }
+    .tag span {
+        font-size: 18px;
+    }
+    .tag-data span {
+        padding-left: 35px;
+        line-height: 20px;
+        font-size: 16px;
+    }
+    .tag-data {
+        padding: 0;
+    }
+    .footer {
+        min-height: 155px;
+    }
+    .contant-data {
+        background-position: right 80px;
+    }
+    .contant {
+        padding: 60px 0 20px 0;
+        background-image: url('../image/crane.png'), url('../image/b-circle.png');
+        background-repeat: no-repeat;
+        background-position: bottom left, 1170px 140px;
+        background-size: 300px, 115px;
+    }
+    .hockeye-image {
+        margin-top: 50px;
+        background-position: left center, right bottom 40px;
+        background-size: 450px, 160px;
+    }
+    .finance {
+        margin-left: 200px;
+    }
+    .services {
+        padding-left: 300px;
+        padding-top: 40px;
+    }
+    .management {
+        padding-left: 300px;
+        padding-top: 40px;
+    }
+    .renovation {
+        padding-top: 40px;
+        padding-left: 200px;
+    }
+}
+/*--------------------------------------------------*/
+
+/*--------------sreen 768px-------------------------*/
+
+/*--------------------------------------------------*/
+
+@media only screen and (max-width: 1024px) {
+    body {
+        background-size: 65px, 200px;
+        font-size: 14px;
+    }
+    .header-top-navbar {
+        display: none;
+    }
+    .container {
+        width: 700px;
+    }
+    .button a {
+        padding: 8px 15px;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+    .header-top {
+        margin-top: 30px;
+    }
+    .logo img {
+        width: 92px;
+        height: auto;
+    }
+    .manu li {
+        font-size: 14px;
+        padding: 0 10px;
+        border-right: 1px solid #273138;
+    }
+    .heading h1 {
+        font-size: 34px;
+        font-family: Gotham-Bold;
+    }
+    .heading span {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .heading .border {
+        margin-top: 22px;
+        width: 85px;
+    }
+    .banner-form {
+        padding-top: 25px;
+    }
+    .heading {
+        padding-top: 30px;
+    }
+    .heading .border .border-bottom {
+        border-bottom: 3px solid #02b0bd;
+    }
+    .banner-form p {
+        font-size: 14px;
+    }
+    .download-form input {
+        border: 1px solid #828282;
+        padding: 0 0 0 10px;
+        font-size: 14px;
+        flex-shrink: 1;
+        width: 100%;
+        border-radius: 2px;
+    }
+    .download-btn {
+        flex-shrink: 0;
+        font-size: 14px;
+        border-radius: 2px;
+        padding: 8px 10px;
+    }
+    .banner-image img {
+        width: 500px;
+        height: auto;
+    }
+    .lable p {
+        font-size: 24px;
+        margin-bottom: 16px;
+    }
+    .middle-contant {
+        padding: 30px 0;
+    }
+    .lable-border {
+        width: 50px;
+        margin: 0 auto;
+    }
+    .lable-border .border-bottom {
+        border-bottom: 3px solid #02b0bd;
+    }
+    .planing {
+        margin-top: 30px;
+    }
+    .planing-data p {
+        font-size: 14px;
+        margin-top: 20px;
+        line-height: 16px;
+    }
+    .planing-data {
+        max-width: 260px;
+    }
+    .lable h1 {
+        font-size: 24px;
+        margin: 16px 0;
+    }
+    .middle-contant .diagram {
+        margin-bottom: 40px;
+    }
+    .lable .fix-header {
+        max-width: 400px;
+        margin: 16px auto;
+    }
+    .diagram-image {
+        height: 120px;
+        width: 120px;
+    }
+    .diagram-list ul li {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .diagram-list h3 {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .diagram-list {
+        margin-left: 10px;
+    }
+    .acquisition img {
+        width: 80px;
+        height: auto;
+    }
+    .finance img {
+        width: 86px;
+        height: auto;
+    }
+    .services img {
+        width: 80px;
+        height: auto;
+    }
+    .management img {
+        width: 84px;
+        height: auto;
+    }
+    .renovation img {
+        width: 82px;
+        height: auto;
+    }
+    .sell img {
+        width: 82px;
+        height: auto;
+    }
+    .lifting {
+        padding: 40px 15px 40px 15px;
+    }
+    .lifting-details h3 {
+        padding-bottom: 8px;
+    }
+    .bottom-contant {
+        padding: 30px 0 30px 0;
+    }
+    .lifting-details span {
+        line-height: 10px;
+    }
+    .container-2 {
+        width: 700px;
+    }
+    .lifting-list ul li {
+        font-size: 14px;
+        padding: 4px 0;
+    }
+    .modify-lable h1 {
+        margin-top: 0;
+    }
+    .dropdown-data {
+        padding-top: 35px;
+    }
+    .lifting-image {
+        padding-left: 30px;
+        padding-top: 5px;
+    }
+    .lifting-image img {
+        width: 120px;
+        height: auto;
+    }
+    .lifting-details {
+        font-size: 14px;
+        line-height: 16px;
+        color: #273138;
+        padding-left: 15px;
+        margin-top: 8px;
+    }
+    .tag {
+        padding: 12px 15px;
+        margin: 10px 0;
+        border-radius: 3px;
+    }
+    .tag-data img {
+        width: 120px;
+        height: auto;
+    }
+    .tag span {
+        font-size: 14px;
+    }
+    .tag-data span {
+        padding-left: 20px;
+        line-height: 16px;
+        font-size: 14px;
+    }
+    .tag-data {
+        padding: 0;
+    }
+    .footer {
+        min-height: 85px;
+    }
+    .footer .copy-right {
+        font-size: 14px;
+    }
+    .contant-data {
+        background-position: right 40px;
+        background-size: 50px;
+    }
+    .contant {
+        padding: 40px 0 10px 0;
+        background-image: url('../image/crane.png'), url('../image/b-circle.png');
+        background-repeat: no-repeat;
+        background-position: bottom left, 660px 70px;
+        background-size: 170px, 60px;
+    }
+    .hockeye-image {
+        margin-top: 40px;
+        background-position: left center, right bottom 30px;
+        background-size: 235px, 85px;
+    }
+    .acquisition {
+        padding-left: 110px;
+    }
+    .finance {
+        margin-left: 210px;
+    }
+    .services {
+        padding-left: 280px;
+        padding-top: 30px;
+    }
+    .management {
+        padding-left: 280px;
+        padding-top: 30px;
+    }
+    .renovation {
+        padding-top: 30px;
+        padding-left: 210px;
+    }
+    .sell {
+        padding-left: 110px;
+    }
+}
+/*--------------------------------------------------*/
+
+/*--------------sreen 640px-------------------------*/
+
+/*--------------------------------------------------*/
+
+@media only screen and (max-width: 640px) {
+    body {
+        background-size: 70px, 100px;
+        font-size: 14px;
+    }
+    .header-top-navbar {
+        margin-top: 30px;
+        display: flex;
+    }
+    .navabar .logo {
+        display: block;
+        width: 100%;
+        flex-shrink: 1;
+    }
+    .navabar {
+        display: flex;
+        position: relative;
+        flex: auto;
+        align-items: center;
+    }
+    #nav {
+        display: none;
+        background-color: #80d7de;
+        box-shadow: 0 0 5px grey;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 65px;
+        z-index: 99;
+    }
+    #nav li {
+        font-size: 16px;
+        padding: 10px 10px;
+        font-weight: 500;
+        list-style: none;
+    }
+    #nav li a {
+        color: #273138;
+    }
+    #nav li:hover {
+        background-color: #02b0bd;
+    }
+    .header-top-navbar a.icon {
+        background: #fff;
+        display: block;
+        background-color: #80d7de;
+        flex-shrink: 0;
+    }
+    .header-top-navbar a.icon img {
+        height: 30px;
+        width: 30px;
+    }
+    .container {
+        width: 94%;
+    }
+    .button a {
+        padding: 4px 8px;
+        border-radius: 2px;
+        font-size: 14px;
+    }
+    .header-top {
+        display: none;
+    }
+    .logo img {
+        width: 130px;
+        height: auto;
+    }
+    .manu {
+        margin-left: 20px;
+    }
+    .manu li {
+        font-size: 14px;
+        padding: 0 5px;
+        border-right: 1px solid #273138;
+    }
+    .heading h1 {
+        font-size: 24px;
+    }
+    .heading span {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .heading .border {
+        margin-top: 10px;
+        width: 40px;
+    }
+    .heading .border .border-bottom {
+        border-bottom: 2px solid #02b0bd;
+    }
+    .banner-form {
+        padding-top: 10px;
+    }
+    .heading {
+        padding-top: 10px;
+    }
+    .banner-form p {
+        font-size: 14px;
+    }
+    .download-form {
+        display: block;
+    }
+    .download-form input {
+        border: 1px solid #828282;
+        padding: 10px;
+        font-size: 14px;
+        border-radius: 4px;
+        margin: 10px 0;
+    }
+    .download-form {
+        display: block;
+    }
+    .download-btn {
+        margin-top: 10px;
+        font-size: 14px;
+        padding: 10px 16px;
+        border-radius: 4px;
+    }
+    .banner-image {
+        display: none;
+    }
+    .lable p {
+        font-size: 18px;
+        margin-bottom: 12px;
+    }
+    .middle-contant {
+        padding: 14px 0;
+    }
+    .lable-border {
+        width: 60px;
+        margin: 0 auto;
+    }
+    .lable-border .border-bottom {
+        border-bottom: 2px solid #02b0bd;
+    }
+    .planing-data p {
+        font-size: 14px;
+        margin: 25px 0 45px 0;
+        line-height: normal;
+    }
+    .planing-data {
+        margin: 0 auto;
+        width: auto;
+    }
+    .good-bye {
+        height: auto;
+        width: 100%;
+    }
+    .investor {
+        height: auto;
+        width: 100%;
+    }
+    .mt-18 {
+        margin-top: 0;
+        width: 100%;
+        height: auto;
+    }
+    .imagene {
+        width: 100%;
+        height: auto;
+    }
+    .lable h1 {
+        font-size: 18px;
+        margin: 12px 0;
+    }
+    .diagram img {
+        width: 220px;
+        height: auto;
+    }
+    .lable .fix-header {
+        max-width: 280px;
+        margin: 12px auto;
+    }
+    .diagram-image {
+        height: 150px;
+        width: 150px;
+        margin: 10px auto;
+    }
+    .diagram-list ul li {
+        font-size: 14px;
+        line-height: normal;
+    }
+    .diagram-list h3 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .diagram-list {
+        margin-left: 6px;
+    }
+    .acquisition img {
+        width: 106px;
+        height: auto;
+    }
+    .finance img {
+        width: 110px;
+        height: auto;
+    }
+    .services img {
+        width: 106px;
+        height: auto;
+    }
+    .management img {
+        width: 108px;
+        height: auto;
+    }
+    .renovation img {
+        width: 108px;
+        height: auto;
+    }
+    .sell img {
+        width: 108px;
+        height: auto;
+    }
+    .lifting {
+        padding: 40px 0px;
+    }
+    .bottom-contant {
+        padding: 8px 0;
+    }
+    .lifting-data {
+        display: block;
+    }
+    .lifting-details span {
+        line-height: normal;
+    }
+    .container-2 {
+        width: 94%;
+    }
+    .lifting-list ul li {
+        font-size: 14px;
+        padding: 6px 0;
+        text-align: center;
+    }
+    .modify-lable h1 {
+        margin-top: 0;
+    }
+    .dropdown-data {
+        padding-top: 40px;
+    }
+    .lifting-image {
+        padding: 25px 0;
+        display: flex;
+        justify-content: center;
+    }
+    .lifting-image img {
+        width: 190px;
+        height: auto;
+    }
+    .lifting-details {
+        font-size: 14px;
+        line-height: normal;
+        color: #273138;
+        padding-left: 6px;
+        margin-top: 2px;
+    }
+    .tag {
+        padding: 10px 15px;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    .tag-data img {
+        width: 190px;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+    }
+    .tag span {
+        font-size: 14px;
+    }
+    .tag-data span {
+        padding: 0;
+        display: block;
+        margin-top: 20px;
+        line-height: normal;
+        font-size: 14px;
+    }
+    .tag-data {
+        padding: 0;
+    }
+    .footer {
+        min-height: 80px;
+    }
+    .footer .copy-right {
+        font-size: 14px;
+    }
+    .contant-data {
+        background-position: right 20px;
+        background-size: 25px;
+    }
+    .contant {
+        padding: 40px 0 30px 0;
+        background-size: 80px;
+    }
+    .hockeye-image {
+        background: none;
+    }
+    .diagram-details {
+        display: block;
+        margin-top: 20px;
+    }
+    .acquisition {
+        padding-left: 0;
+    }
+    .finance {
+        margin-left: 0;
+    }
+    .services {
+        padding-left: 0;
+    }
+    .management {
+        padding-left: 0;
+    }
+    .renovation {
+        padding-left: 0;
+    }
+    .sell {
+        padding-left: 0;
+    }
+    .planing {
+        margin-top: 40px;
+        display: block;
+    }
+    .middle-contant .diagram {
+        margin-bottom: 15px;
+    }
+    .lifting-details h3 {
+        padding-bottom: 10px;
+    }
+    .lifting {
+        display: block;
+    }
+    .tag-data {
+        display: block;
+        display: block;
+        padding: 30px 0;
+    }
+    .text-bottom {
+        padding-right: 30px;
+    }
+}
